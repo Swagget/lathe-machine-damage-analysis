@@ -1,0 +1,34 @@
+C.R.M 3 ( Frohling Cold Rolling Mill )
+                                     
+Material being rolled - C 75 grade Steel
+
+Number of passes - 3
+
+Initial Thickness - 1.5 mm
+Final Thickness - 0.9 mm
+
+Mill screw down - 450 metric tonne
+
+Pass Number	   0	   1	    2	    3
+Thickness	1.5 mm	 1.3 mm	 1.1 mm	  0.9 mm
+Tension in	12000 N	45000 N	40000 N	32000 N
+Tension out	 45800 N	 40000 N	 35000 N	 30000 N
+R.P.M	   140	  280	  280	   280
+
+C.R.M 2 ( older mill )
+
+Mateial being rolled - C 75 Steel
+
+Number of passes - 2
+
+Initial Thickness - 2 mm
+Final Thickness - 1.5 mm
+
+Mill Screw Down - 225 metric tonne
+
+Pass Number	     0	     1	    2
+   Thickness	   2 mm 	  1.75 mm	  1.5 mm
+Tension in 	  10000 N 	  30000 N	  30000 N
+Tension out 	  30000 N 	30000 N	30000 N
+    R.P.M	    150	    150	   150
+
